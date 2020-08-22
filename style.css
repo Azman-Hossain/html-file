@@ -1,0 +1,13 @@
+* body{
+	
+	background-color: lightblue;
+	margin:50px50px;
+}
+	.main dive h1{
+		width: 500px;
+		margin: 0px auto;
+		background-color: green;
+		text-align: center;
+	}
+	.second div{
+		background-color: green;	}
